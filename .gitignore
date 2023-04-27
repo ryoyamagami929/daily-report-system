@@ -1,0 +1,23 @@
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.warCREATE DATABASE daily_report_system DEFAULT CHARACTER SET utf8;
+*.ear
+
+# Maven
+target/
+
+# eclipse
+.classpath
+.project
+.settings/
+build/
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Application Properties
+src/main/resources/application.properties
